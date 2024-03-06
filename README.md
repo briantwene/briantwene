@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - 🔭 I’m currently working on [paperflow](https://github.com/briantwene/paperflow)
 
-- 🌱 I’m currently learning **Rust, Typescript, Redux**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/briantwene) 
