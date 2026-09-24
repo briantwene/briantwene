@@ -12,11 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# 👋 About Me
-
-I’m a software engineer with over three years of professional experience building web and mobile applications. My background includes **React and TypeScript** frontend development, **C#/.NET** backend development, and mobile development with **Ionic and Swift**. I enjoy developing reliable products, learning unfamiliar technologies, and solving practical problems.
-
 ## 🚀 Featured Project
 
 **[PaperFlow](https://github.com/briantwene/paperflow)** is a cross-platform desktop application for discovering, downloading, and setting wallpapers sourced from Reddit. I built the React and TypeScript interface and integrated it with the **Tauri and Rust** core. The project has packaged releases for Windows, macOS, and Linux and is in active maintenance.
